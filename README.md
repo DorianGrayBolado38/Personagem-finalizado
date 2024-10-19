@@ -5,3 +5,5 @@
 ![lista](https://github.com/user-attachments/assets/b341a1cd-35c5-4856-b8c3-b08320fd5a62)
 ![lista2](https://github.com/user-attachments/assets/7baf6b7f-7891-4266-b225-fa2edc808c8a)
 ![buscar](https://github.com/user-attachments/assets/d12d62e3-2518-43ae-9604-a0b47409bc8b)
+![apagar](https://github.com/user-attachments/assets/fdf2e55b-2eaf-43a5-af37-ce00996d8297)
+![apagado](https://github.com/user-attachments/assets/eff7ce4a-c531-4fab-b2c6-8ee5122deb4d)
